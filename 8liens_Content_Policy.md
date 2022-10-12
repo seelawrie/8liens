@@ -1,6 +1,6 @@
 Content Policy for 8liens forums and chat rooms
 ========================
-(collectively referred to as the 8liens properties)
+_(collectively referred to as the **8liens properties**)_
 
 ### 1. Stay on Topic
 The 8liens properties are a place to discuss matters related to the [8liens](https://8liens.xyz/). Discussions that are off-topic to this will be closed and potentially deleted. Comments within a discussion may naturally veer in different directions, and this is generally not a problem. However, if the moderators feel that the comment chain has reached its limit, we will give a polite notice about being off topic before moderation is used.
